@@ -20,6 +20,8 @@ A modern, responsive book management dashboard built with React and Material-UI.
 
 ## 📥 Getting Started
 
+AI coding assistants can use [AGENTS.md](AGENTS.md) for quick setup and workflow guidance.
+
 ### Prerequisites
 
 - Node.js (v8+ recommended for React 16 compatibility)
